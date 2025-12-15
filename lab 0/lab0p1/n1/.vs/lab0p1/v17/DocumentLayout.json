@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043E\u0438\u043C\u043F\\labs\\lab 0\\lab0p1\\lab0p1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5051C1C-5A6D-4432-8884-8BEF74547D2A}|lab0p1\\lab0p1.vcxproj|D:\\\u043E\u0438\u043C\u043F\\labs\\lab 0\\lab0p1\\lab0p1\\lab0p1\\lab0n2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5051C1C-5A6D-4432-8884-8BEF74547D2A}|lab0p1\\lab0p1.vcxproj|solutionrelative:lab0p1\\lab0n2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab0n2.cpp",
+              "DocumentMoniker": "D:\\\u043E\u0438\u043C\u043F\\labs\\lab 0\\lab0p1\\lab0p1\\lab0p1\\lab0n2.cpp",
+              "RelativeDocumentMoniker": "lab0p1\\lab0n2.cpp",
+              "ToolTip": "D:\\\u043E\u0438\u043C\u043F\\labs\\lab 0\\lab0p1\\lab0p1\\lab0p1\\lab0n2.cpp",
+              "RelativeToolTip": "lab0p1\\lab0n2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:25:25.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
