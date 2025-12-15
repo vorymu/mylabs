@@ -1,3 +1,0 @@
-﻿  Source.cpp
-D:\оимп\labs\lab2\lab2\Source.cpp(136,26): warning C4267: =: преобразование из "size_t" в "uint16_t"; возможна потеря данных
-  lab2.vcxproj -> D:\оимп\labs\lab2\lab2\x64\Debug\lab2.exe
